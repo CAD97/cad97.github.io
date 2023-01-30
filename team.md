@@ -11,7 +11,8 @@ description: null
 
 <iframe src="https://store.steampowered.com/widget/2142850/" frameborder="0" width="646" height="190"></iframe>
 
-This game was developed by a 27-person student team from SMU Guildhall over the course of six months, as part of the program's capstone Team Game Project (TGP) curriculum.
+This game was developed by a 27-person student team from SMU Guildhall over the course
+of six months, as part of the program's capstone Team Game Project (TGP) curriculum.
 The soundtrack was composed by a team from SMU Meadows School of the Arts.
 
 During the development of *Conjury Revell*, I was in charge of the build process,
@@ -42,7 +43,8 @@ polish into the game via a bit of animation nuance not in the initial draft.
 
 <iframe src="https://store.steampowered.com/widget/1702970/" frameborder="0" width="646" height="190"></iframe>
 
-This game was developed by a 15-person student team from SMU Guildhall over the course of six months, as part of the program's capstone Team Game Project (TGP) curriculum.
+This game was developed by a 15-person student team from SMU Guildhall over the course
+of six months, as part of the program's capstone Team Game Project (TGP) curriculum.
 The soundtrack was composed by a team from SMU Meadows School of the Arts.
 
 During the development of *Kibbi Keeper*, I was primarily focused on maintaining the

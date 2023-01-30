@@ -51,7 +51,7 @@ Disclaimer: extremely proof-of-concept, and only functional for basic use cases.
 ## [The Rust Programming Language](oss#the-rust-programming-language)
 
 A language empowering everyone to build reliable and efficient software. I'm
-officially part of the operation semantics team tasked with owning, refining,
+officially part of the operational semantics team tasked with owning, refining,
 documenting, and specifying the semantics of unsafe code. This is the team
 which is in charge of defining what exactly it means to run a Rust program.
 
