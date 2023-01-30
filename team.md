@@ -5,7 +5,7 @@ description: null
 
 ## Conjury Revell
 
-<video controls muted width="100%">
+<video controls muted width="100%" poster="{{ '/assets/img/conjuryrevell.png' | relative_url }}">
     <source src="{{ '/assets/vid/conjuryrevell.webm' | relative_url }}" type="video/webm">
 </video>
 
@@ -36,7 +36,7 @@ polish into the game via a bit of animation nuance not in the initial draft.
 
 ## Kibbi Keeper
 
-<video controls muted width="100%">
+<video controls muted width="100%" poster="{{ '/assets/img/kibbikeeper.png' | relative_url }}">
     <source src="{{ '/assets/vid/kibbikeeper.webm' | relative_url }}" type="video/webm">
 </video>
 
@@ -71,7 +71,7 @@ coherency in design and execution which always make me smile when possible to pu
 
 ## Snowpainters
 
-<video controls muted width="100%">
+<video controls muted width="100%" poster="{{ '/assets/img/snowpainters.png' | relative_url }}">
     <source src="{{ '/assets/vid/snowpainters.webm' | relative_url }}" type="video/webm">
 </video>
 
