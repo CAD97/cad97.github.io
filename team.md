@@ -5,7 +5,7 @@ description: null
 
 ## Conjury Revell
 
-<video controls crossorigin="use-credentials" muted width="80%">
+<video controls crossorigin="use-credentials" muted width="100%">
     <source src="{{ '/assets/vid/conjuryrevell.webm' | relative_url }}" type="video/webm">
 </video>
 
