@@ -6,7 +6,7 @@ description: null
 ## Conjury Revell
 
 <video controls crossorigin="use-credentials" muted width="80%">
-    <source src="https://cdn.akamai.steamstatic.com/steam/apps/256925996/movie_max_vp9.webm" type="video/webm">
+    <source src="{{ '/assets/vid/conjuryrevell.webm' | relative_url }}" type="video/webm">
 </video>
 
 <iframe src="https://store.steampowered.com/widget/2142850/" frameborder="0" width="646" height="190"></iframe>
