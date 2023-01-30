@@ -1,3 +1,8 @@
+---
+title: "Solo Game Projects"
+description: null
+---
+
 ## Hobby Engine
 
 A C++ engine built nearly from scratch, capable of supporting small-to-medium sized
