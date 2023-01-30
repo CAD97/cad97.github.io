@@ -5,7 +5,11 @@ description: null
 
 ## Conjury Revell
 
-A first-person shooter with wave-based arena combat. Play as a rebellious dissident fighting to rid their world of magical oppression and forge a better future for their city in the clouds.
+<video controls crossorigin="use-credentials" muted width="80%">
+    <source src="https://cdn.akamai.steamstatic.com/steam/apps/256925996/movie_max_vp9.webm" type="video/webm">
+</video>
+
+<iframe src="https://store.steampowered.com/widget/2142850/" frameborder="0" width="646" height="190"></iframe>
 
 ## Kibbi Keeper
 
