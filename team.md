@@ -9,7 +9,7 @@ description: null
     <source src="{{ '/assets/vid/conjuryrevell.webm' | relative_url }}" type="video/webm">
 </video>
 
-<iframe src="https://store.steampowered.com/widget/2142850/" frameborder="0" width="646" height="190"></iframe>
+<iframe src="https://store.steampowered.com/widget/2142850/" frameborder="0" width="100%" height="190"></iframe>
 
 This game was developed by a 27-person student team from SMU Guildhall over the course
 of six months, as part of the program's capstone Team Game Project (TGP) curriculum.
@@ -41,7 +41,7 @@ polish into the game via a bit of animation nuance not in the initial draft.
     <source src="{{ '/assets/vid/kibbikeeper.webm' | relative_url }}" type="video/webm">
 </video>
 
-<iframe src="https://store.steampowered.com/widget/1702970/" frameborder="0" width="646" height="190"></iframe>
+<iframe src="https://store.steampowered.com/widget/1702970/" frameborder="0" width="100%" height="190"></iframe>
 
 This game was developed by a 15-person student team from SMU Guildhall over the course
 of six months, as part of the program's capstone Team Game Project (TGP) curriculum.
@@ -77,7 +77,7 @@ coherency in design and execution which always make me smile when possible to pu
     <source src="{{ '/assets/vid/snowpainters.webm' | relative_url }}" type="video/webm">
 </video>
 
-<iframe src="https://store.steampowered.com/widget/1545710/" frameborder="0" width="646" height="190"></iframe>
+<iframe src="https://store.steampowered.com/widget/1545710/" frameborder="0" width="100%" height="190"></iframe>
 
 This game was developed by a 40-person student team from SMU Guildhall over the course
 of three months, as part of the program's capstone Team Game Project (TGP) curriculum.
