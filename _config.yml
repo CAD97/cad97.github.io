@@ -6,6 +6,6 @@ markdown: kramdown
 remote_theme: pages-themes/midnight@v0.2.0
 is_project_page: false
 
-title: "Christopher Durham's Porfolio"
+title: "Crystal Durham's Porfolio"
 description: "Engine & Tools Programming"
 show_downloads: false
